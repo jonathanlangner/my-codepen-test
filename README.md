@@ -3,7 +3,7 @@
 <body>
   <br></br>
 
-  <h3>- 🌱 This is a quick test page I wrote for CodePen. </h3>   
+  <h3>-This is a quick test page I wrote for CodePen. </h3>   
 
 </body>
 
